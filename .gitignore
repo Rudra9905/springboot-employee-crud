@@ -1,0 +1,17 @@
+# Ignore build outputs
+target/
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Compiled classes and archives
+*.class
+*.jar
+*.war
+
+# Databases
+*.db
